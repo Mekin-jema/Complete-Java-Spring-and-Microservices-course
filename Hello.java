@@ -30,6 +30,16 @@ public class Hello {
     int intMax = Integer.MAX_VALUE;     // 2147483647
     long longMin = Long.MIN_VALUE;      // -9223372036854775808
     long longMax = Long.MAX_VALUE;      // 9223372036854775807
+    
+/*
+    | Type  | Bits | Formula for MIN | Formula for MAX |
+    | ----- | ---- | --------------- | --------------- |
+    | byte  | 8    | −2^(n−1)        | 2^(n−1) − 1     |
+    | short | 16   | −2^(n−1)        | 2^(n−1) − 1     |
+    | int   | 32   | −2^(n−1)        | 2^(n−1) − 1     |
+    | long  | 64   | −2^(n−1)        | 2^(n−1) − 1     |
+*/
+
 
     // Literals: decimal, binary (0b), octal (0 prefix), hex (0x), underscores.
     int hex = 0xFF;          // 255

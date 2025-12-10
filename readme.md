@@ -31,7 +31,7 @@ A single roadmap to go from Java fundamentals to production-ready Spring Boot mi
 - Spring Core to Security: ~2 weeks.
 - Microservices + Capstone: ~1–2 weeks.
 
-## Study To-Do Checklist
+## Study To-Do Chsecklist
 - [ ] Set up JDK and IDE (IntelliJ/VS Code) and run a Hello World.
 - [ ] Complete Java syntax and control flow exercises.
 - [ ] Implement 3–5 small OOP drills (classes, constructors, encapsulation).
